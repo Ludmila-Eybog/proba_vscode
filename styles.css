@@ -1,0 +1,27 @@
+html, 
+body, 
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+p {
+font-family: 'Hack';
+/* font-family: 'menlo', Monaco; */
+
+}
+
+.color {
+	font-family: 'menlo', Monaco;
+	color: rgb(16, 144, 91);
+	background-color: #bbb;
+}
+
+p {
+/* font-family: 'menlo', Monaco; */
+font-family: 'Pacifico', cursive;
+}
+
+
+
+
